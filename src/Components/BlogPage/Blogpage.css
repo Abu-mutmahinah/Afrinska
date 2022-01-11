@@ -1,0 +1,17 @@
+.blogafrianska {
+  background-image: url("../../Images/MaskGroup6.png");
+}
+
+.search {
+  background: whitesmoke;
+  border-radius: 6px;
+}
+.search img {
+  height: 20px;
+}
+.rectangle5 {
+  height: 320px;
+}
+.Line {
+  border: 1px solid rgba(0, 0, 0, 0.39);
+}

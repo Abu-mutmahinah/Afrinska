@@ -1,0 +1,17 @@
+.Card2 {
+  box-shadow: 5px 20px 50px rgba(16, 113, 177, 0.493);
+  border-radius: 10px;
+}
+.Card2 input {
+  border: 1px solid rgba(68, 68, 238, 0.322);
+  border-radius: 6px;
+  margin-top: 5px;
+}
+.Card2 button {
+  border: none;
+  background: rgba(16, 113, 177, 0.877);
+  border-radius: 10px;
+}
+.Card2 button:hover {
+  transform: scale(1.1);
+}
